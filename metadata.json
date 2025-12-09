@@ -1,0 +1,7 @@
+{
+  "name": "Grand Luxury Christmas Tree",
+  "description": "A cinematic, high-fidelity 3D interactive experience featuring a luxurious interactive Christmas tree. Users can click on golden ornaments to reveal AI-generated opulent holiday fortunes powered by Gemini. Features experimental gesture control visuals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
